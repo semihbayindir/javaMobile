@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352743928710",
+    "project_id": "arapp-a074c",
+    "storage_bucket": "arapp-a074c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352743928710:android:0bb4108841b6704f2c3207",
+        "android_client_info": {
+          "package_name": "com.example.arapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352743928710-ddertl0s6jjdk0lisjh71jg3io1ep09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHipOnEzSNQTUZSRaWKCo3-gfh9B-cObA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352743928710-ddertl0s6jjdk0lisjh71jg3io1ep09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

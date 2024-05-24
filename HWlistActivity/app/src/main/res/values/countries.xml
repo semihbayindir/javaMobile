@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="country">
+        <item name="USA">United states of america </item>
+        <item name="bra">Brazil </item>
+        <item name="tr">Turkiye </item>
+        <item name="fr">France </item>
+        <item name="eng">England </item>
+        <item name="fin">Finland </item>
+        <item name="ger">Germany </item>
+        <item name="it">Italy </item>
+
+    </string-array>
+
+    
+</resources>
